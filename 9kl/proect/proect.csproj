@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2DE50FFA-78CD-4C48-812D-7C89D9D4FEB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>proect</RootNamespace>
+    <AssemblyName>proect</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dataModule.cs" />
+    <Compile Include="DataSetSpets.cs">
+      <DependentUpon>DataSetSpets.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSpets.Designer.cs">
+      <DependentUpon>DataSetSpets.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="probaDataSet.cs">
+      <DependentUpon>probaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="viknoAbitur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viknoAbitur.Designer.cs">
+      <DependentUpon>viknoAbitur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmSpravBenefit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmSpravBenefit.Designer.cs">
+      <DependentUpon>fmSpravBenefit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmSpravSpecialty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmSpravSpecialty.Designer.cs">
+      <DependentUpon>fmSpravSpecialty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LookupComboBox.cs" />
+    <Compile Include="zna4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zna4.Designer.cs">
+      <DependentUpon>zna4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zvit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zvit.Designer.cs">
+      <DependentUpon>zvit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="golovna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="golovna.Designer.cs">
+      <DependentUpon>golovna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="probaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>probaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="fmSpravLanguage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmSpravLanguage.Designer.cs">
+      <DependentUpon>fmSpravLanguage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="viknoAbitur.resx">
+      <DependentUpon>viknoAbitur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmSpravBenefit.resx">
+      <DependentUpon>fmSpravBenefit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmSpravSpecialty.resx">
+      <DependentUpon>fmSpravSpecialty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zna4.resx">
+      <DependentUpon>zna4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zvit.resx">
+      <DependentUpon>zvit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="golovna.resx">
+      <DependentUpon>golovna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fmSpravLanguage.resx">
+      <DependentUpon>fmSpravLanguage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="CrystalReport1.mht" />
+    <None Include="DataSetSpets.xsc">
+      <DependentUpon>DataSetSpets.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSpets.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSpets.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetSpets.xss">
+      <DependentUpon>DataSetSpets.xsd</DependentUpon>
+    </None>
+    <None Include="probaDataSet.xsc">
+      <DependentUpon>probaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="probaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>probaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="probaDataSet.xss">
+      <DependentUpon>probaDataSet.xsd</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

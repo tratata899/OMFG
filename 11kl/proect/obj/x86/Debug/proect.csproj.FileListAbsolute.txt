@@ -1,0 +1,376 @@
+G:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe.config
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe.config
+G:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe
+G:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.pdb
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.exe
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.pdb
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.exe
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.pdb
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe
+F:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.pdb
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.golovna.resources
+H:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe.config
+H:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe
+H:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.pdb
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.golovna.resources
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.exe
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.pdb
+F:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.golovna.resources
+G:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.zvit.resources
+I:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe.config
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.exe
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.pdb
+I:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.exe
+I:\КУРСОВАЯ С#\proect\proect\bin\Debug\proect.pdb
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.zvit.resources
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.golovna.resources
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\КУРСОВАЯ С#\proect\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\bin\Debug\proect.exe.config
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.exe
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.pdb
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\bin\Debug\proect.exe
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\bin\Debug\proect.pdb
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Stiller\Desktop\курсак\ПРОЭКТ\proect\proect\obj\x86\Debug\proect.zna4.resources
+M:\Панченко\proect\proect\bin\Debug\proect.exe.config
+M:\Панченко\proect\proect\obj\x86\Debug\proect.exe
+M:\Панченко\proect\proect\obj\x86\Debug\proect.pdb
+M:\Панченко\proect\proect\bin\Debug\proect.exe
+M:\Панченко\proect\proect\bin\Debug\proect.pdb
+M:\Панченко\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Панченко\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+M:\Панченко\proect\proect\obj\x86\Debug\proect.zna4.resources
+M:\Панченко\proect\proect\obj\x86\Debug\proect.zvit.resources
+M:\Панченко\proect\proect\obj\x86\Debug\proect.golovna.resources
+M:\Панченко\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+M:\Панченко\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Панченко\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Панченко\proect\proect\bin\Debug\proect.exe.config
+F:\Панченко\proect\proect\bin\Debug\proect.exe
+F:\Панченко\proect\proect\bin\Debug\proect.pdb
+F:\Панченко\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Панченко\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+F:\Панченко\proect\proect\obj\x86\Debug\proect.zna4.resources
+F:\Панченко\proect\proect\obj\x86\Debug\proect.zvit.resources
+F:\Панченко\proect\proect\obj\x86\Debug\proect.golovna.resources
+F:\Панченко\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+F:\Панченко\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Панченко\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Панченко\proect\proect\obj\x86\Debug\proect.exe
+F:\Панченко\proect\proect\obj\x86\Debug\proect.pdb
+G:\Панченко\proect\proect\bin\Debug\proect.exe.config
+G:\Панченко\proect\proect\obj\x86\Debug\proect.exe
+G:\Панченко\proect\proect\obj\x86\Debug\proect.pdb
+G:\Панченко\proect\proect\bin\Debug\proect.exe
+G:\Панченко\proect\proect\bin\Debug\proect.pdb
+G:\Панченко\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Панченко\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+G:\Панченко\proect\proect\obj\x86\Debug\proect.zna4.resources
+G:\Панченко\proect\proect\obj\x86\Debug\proect.zvit.resources
+G:\Панченко\proect\proect\obj\x86\Debug\proect.golovna.resources
+G:\Панченко\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+G:\Панченко\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Панченко\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\proect\proect\bin\Debug\proect.exe.config
+E:\proect\proect\obj\x86\Debug\proect.exe
+E:\proect\proect\obj\x86\Debug\proect.pdb
+E:\proect\proect\bin\Debug\proect.exe
+E:\proect\proect\bin\Debug\proect.pdb
+E:\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+E:\proect\proect\obj\x86\Debug\proect.zna4.resources
+E:\proect\proect\obj\x86\Debug\proect.zvit.resources
+E:\proect\proect\obj\x86\Debug\proect.golovna.resources
+E:\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+E:\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\bin\Debug\proect.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.exe
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.dobavAbitur.resources
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.zna4.resources
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.zvit.resources
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.golovna.resources
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\bin\Debug\proect.exe
+C:\Documents and Settings\Admin\Рабочий стол\Diplom2013\proect2013\proect\bin\Debug\proect.pdb
+H:\proect\proect\bin\Debug\proect.exe.config
+H:\proect\proect\obj\x86\Debug\proect.exe
+H:\proect\proect\obj\x86\Debug\proect.pdb
+H:\proect\proect\bin\Debug\proect.exe
+H:\proect\proect\bin\Debug\proect.pdb
+H:\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+H:\proect\proect\obj\x86\Debug\proect.zna4.resources
+H:\proect\proect\obj\x86\Debug\proect.zvit.resources
+H:\proect\proect\obj\x86\Debug\proect.golovna.resources
+H:\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+H:\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\proect\proect\bin\Debug\proect.exe.config
+G:\proect\proect\obj\x86\Debug\proect.exe
+G:\proect\proect\obj\x86\Debug\proect.pdb
+G:\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+G:\proect\proect\obj\x86\Debug\proect.zna4.resources
+G:\proect\proect\obj\x86\Debug\proect.zvit.resources
+G:\proect\proect\obj\x86\Debug\proect.golovna.resources
+G:\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+G:\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\proect\proect\bin\Debug\proect.exe.config
+F:\proect\proect\obj\x86\Debug\proect.exe
+F:\proect\proect\obj\x86\Debug\proect.pdb
+F:\proect\proect\bin\Debug\proect.exe
+F:\proect\proect\bin\Debug\proect.pdb
+F:\proect\proect\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\proect\proect\obj\x86\Debug\proect.dobavAbitur.resources
+F:\proect\proect\obj\x86\Debug\proect.zna4.resources
+F:\proect\proect\obj\x86\Debug\proect.zvit.resources
+F:\proect\proect\obj\x86\Debug\proect.golovna.resources
+F:\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+F:\proect\proect\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\proect\proect\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\bin\Debug\proect.exe.config
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.exe
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.pdb
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\mihan_kapkan\Desktop\proect\proect\bin\Debug\proect.exe
+C:\Users\mihan_kapkan\Desktop\proect\proect\bin\Debug\proect.pdb
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\mihan_kapkan\Desktop\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+J:\proect\proect\bin\Debug\proect.exe.config
+J:\proect\proect\obj\x86\Debug\proect.exe
+J:\proect\proect\obj\x86\Debug\proect.pdb
+J:\proect\proect\bin\Debug\proect.exe
+J:\proect\proect\bin\Debug\proect.pdb
+J:\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+J:\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+J:\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+J:\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+J:\proect\proect\obj\x86\Debug\proect.zna4.resources
+J:\proect\proect\obj\x86\Debug\proect.zvit.resources
+J:\proect\proect\obj\x86\Debug\proect.golovna.resources
+J:\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+J:\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+J:\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\proect\proect\bin\Debug\proect.exe.config
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.exe
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.pdb
+C:\Users\Admin\Desktop\proect\proect\bin\Debug\proect.exe
+C:\Users\Admin\Desktop\proect\proect\bin\Debug\proect.pdb
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Admin\Desktop\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+F:\my\Develop\proect\proect\bin\Debug\proect.exe.config
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.exe
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.pdb
+F:\my\Develop\proect\proect\bin\Debug\proect.exe
+F:\my\Develop\proect\proect\bin\Debug\proect.pdb
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.zna4.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.zvit.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.golovna.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+F:\my\Develop\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\bin\Debug\proect.exe.config
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.exe
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.pdb
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\bin\Debug\proect.exe
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\bin\Debug\proect.pdb
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.zna4.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.zvit.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.golovna.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+D:\DOWNLOADS\Priemnaya_Komissia\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\TEMP\proect_temp\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Svastya\Desktop\proect\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\proect\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Svastya\Desktop\proect\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\proect\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\9\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\9\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Svastya\Desktop\9\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\9\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\test\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\test\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\test\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\test\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Svastya\Desktop\current\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\current\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+C:\Users\Svastya\Desktop\current\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\current\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\9kl\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\9kl\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\9kl\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\9kl\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+D:\kill_me\9kl\proect\bin\Debug\proect.exe.config
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.exe
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.pdb
+D:\kill_me\9kl\proect\bin\Debug\proect.exe
+D:\kill_me\9kl\proect\bin\Debug\proect.pdb
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.viknoAbitur.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.zna4.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.zvit.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.golovna.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.Properties.Resources.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+D:\kill_me\9kl\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+F:\9kl\proect\bin\Debug\proect.exe.config
+F:\9kl\proect\obj\x86\Debug\proect.exe
+F:\9kl\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\bin\Debug\proect.exe.config
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.exe
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.pdb
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\bin\Debug\proect.exe
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\bin\Debug\proect.pdb
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.viknoAbitur.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.zna4.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.zvit.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.golovna.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.Properties.Resources.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+C:\Users\Svastya\Desktop\ьлд\9kl\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
+D:\College\priem_kom\9kl\proect\bin\Debug\proect.exe.config
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.exe
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.pdb
+D:\College\priem_kom\9kl\proect\bin\Debug\proect.exe
+D:\College\priem_kom\9kl\proect\bin\Debug\proect.pdb
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.csprojResolveAssemblyReference.cache
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.viknoAbitur.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.fmSpravBenefit.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.fmSpravSpecialty.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.zna4.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.zvit.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.golovna.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.Properties.Resources.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.fmSpravLanguage.resources
+D:\College\priem_kom\9kl\proect\obj\x86\Debug\proect.csproj.GenerateResource.Cache
